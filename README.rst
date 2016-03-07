@@ -1,92 +1,43 @@
-======
-Scrapy
-======
 
-.. image:: https://img.shields.io/pypi/v/Scrapy.svg
-   :target: https://pypi.python.org/pypi/Scrapy
-   :alt: PyPI Version
-
-.. image:: https://img.shields.io/pypi/dm/Scrapy.svg
-   :target: https://pypi.python.org/pypi/Scrapy
-   :alt: PyPI Monthly downloads
-
-.. image:: https://img.shields.io/travis/scrapy/scrapy/master.svg
-   :target: http://travis-ci.org/scrapy/scrapy
-   :alt: Build Status
-
-.. image:: https://img.shields.io/badge/wheel-yes-brightgreen.svg
-   :target: https://pypi.python.org/pypi/Scrapy
-   :alt: Wheel Status
-   
-.. image:: http://static.scrapy.org/py3progress/badge.svg
-   :target: https://github.com/scrapy/scrapy/wiki/Python-3-Porting
-   :alt: Python 3 Porting Status
-
-.. image:: https://img.shields.io/codecov/c/github/scrapy/scrapy/master.svg
-   :target: http://codecov.io/github/scrapy/scrapy?branch=master
-   :alt: Coverage report
-
-
-Overview
+概述
 ========
 
-Scrapy is a fast high-level web crawling and web scraping framework, used to
-crawl websites and extract structured data from their pages. It can be used for
-a wide range of purposes, from data mining to monitoring and automated testing.
+Scrapy是一个快速的高水准的网页抓取和网页提取信息的框架，用来爬取网络站点和从他们的网页
+中提取结构化的信息。它又很广泛的用途，从数据挖掘到检测和自动化测试。
 
-For more information including a list of features check the Scrapy homepage at:
+想要了解更多信息请访问：
 http://scrapy.org
 
-Requirements
+需要
 ============
 
 * Python 2.7
 * Works on Linux, Windows, Mac OSX, BSD
 
-Install
+安装
 =======
 
-The quick way::
+快速安装::
 
     pip install scrapy
 
-For more details see the install section in the documentation:
+详细信息请看文档中安装板块：
 http://doc.scrapy.org/en/latest/intro/install.html
 
-Releases
+发布版
 ========
 
-You can download the latest stable and development releases from:
+你可以从这里下载最新的稳定版本和开发版本：
 http://scrapy.org/download/
 
-Documentation
+文档
 =============
 
-Documentation is available online at http://doc.scrapy.org/ and in the ``docs``
-directory.
+可用的在线文档 http://doc.scrapy.org/ 和在 ``docs``
+的文档.
 
-Community (blog, twitter, mail list, IRC)
+社区 (blog, twitter, mail list, IRC)
 =========================================
 
 See http://scrapy.org/community/
 
-Contributing
-============
-
-Please note that this project is released with a Contributor Code of Conduct
-(see https://github.com/scrapy/scrapy/blob/master/CODE_OF_CONDUCT.md).
-
-By participating in this project you agree to abide by its terms.
-Please report unacceptable behavior to opensource@scrapinghub.com.
-
-See http://doc.scrapy.org/en/master/contributing.html
-
-Companies using Scrapy
-======================
-
-See http://scrapy.org/companies/
-
-Commercial Support
-==================
-
-See http://scrapy.org/support/

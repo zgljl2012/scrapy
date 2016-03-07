@@ -1,11 +1,11 @@
 ======================================
-Scrapy documentation quick start guide
+Scrapy 文档快速入门指南
 ======================================
 
 This file provides a quick guide on how to compile the Scrapy documentation.
+这篇文档提供了快速指南说明如何编译Scrapy文档
 
-
-Setup the environment
+搭建环境
 ---------------------
 
 To compile the documentation you need Sphinx Python library. To install it
